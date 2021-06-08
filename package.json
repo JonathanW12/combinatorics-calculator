@@ -29,6 +29,6 @@
     "terser-webpack-plugin": "^3.0.7",
     "webpack": "^4.42.0",
     "webpack-cleanup-plugin": "^0.5.1",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^4.7.2"
   }
 }
